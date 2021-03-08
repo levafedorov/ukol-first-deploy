@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ukol-first-deploy/static/css/main.d587ab50.chunk.css",
+    "main.js": "/ukol-first-deploy/static/js/main.6a7bc266.chunk.js",
+    "main.js.map": "/ukol-first-deploy/static/js/main.6a7bc266.chunk.js.map",
+    "runtime-main.js": "/ukol-first-deploy/static/js/runtime-main.62186398.js",
+    "runtime-main.js.map": "/ukol-first-deploy/static/js/runtime-main.62186398.js.map",
+    "static/js/2.c4135368.chunk.js": "/ukol-first-deploy/static/js/2.c4135368.chunk.js",
+    "static/js/2.c4135368.chunk.js.map": "/ukol-first-deploy/static/js/2.c4135368.chunk.js.map",
+    "index.html": "/ukol-first-deploy/index.html",
+    "static/css/main.d587ab50.chunk.css.map": "/ukol-first-deploy/static/css/main.d587ab50.chunk.css.map",
+    "static/js/2.c4135368.chunk.js.LICENSE.txt": "/ukol-first-deploy/static/js/2.c4135368.chunk.js.LICENSE.txt",
+    "static/media/bin.fe9dea3c.svg": "/ukol-first-deploy/static/media/bin.fe9dea3c.svg",
+    "static/media/logo.d7b983c9.svg": "/ukol-first-deploy/static/media/logo.d7b983c9.svg",
+    "static/media/pen.5ca9af52.svg": "/ukol-first-deploy/static/media/pen.5ca9af52.svg",
+    "static/media/main.scss": "/ukol-first-deploy/static/media/profile.40c948f3.svg",
+    "static/media/search.d5eb98cb.svg": "/ukol-first-deploy/static/media/search.d5eb98cb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62186398.js",
+    "static/js/2.c4135368.chunk.js",
+    "static/css/main.d587ab50.chunk.css",
+    "static/js/main.6a7bc266.chunk.js"
+  ]
+}

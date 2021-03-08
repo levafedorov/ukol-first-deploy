@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ukol-first-deploy/static/css/main.71f9a9a0.chunk.css",
-    "main.js": "/ukol-first-deploy/static/js/main.f674313d.chunk.js",
-    "main.js.map": "/ukol-first-deploy/static/js/main.f674313d.chunk.js.map",
+    "main.js": "/ukol-first-deploy/static/js/main.dc68ed66.chunk.js",
+    "main.js.map": "/ukol-first-deploy/static/js/main.dc68ed66.chunk.js.map",
     "runtime-main.js": "/ukol-first-deploy/static/js/runtime-main.62186398.js",
     "runtime-main.js.map": "/ukol-first-deploy/static/js/runtime-main.62186398.js.map",
     "static/js/2.c4135368.chunk.js": "/ukol-first-deploy/static/js/2.c4135368.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.62186398.js",
     "static/js/2.c4135368.chunk.js",
     "static/css/main.71f9a9a0.chunk.css",
-    "static/js/main.f674313d.chunk.js"
+    "static/js/main.dc68ed66.chunk.js"
   ]
 }
